@@ -1,0 +1,21 @@
+body 
+{
+  background-color: #49aa6e; /* жовтий фон */
+}
+main{
+  color: rgb(0, 47, 255);
+}
+p {
+  font-size: 20px;
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 35px;
+}
+h3{
+  font-size: 30px;
+}
+footer{
+  text-align: center;
